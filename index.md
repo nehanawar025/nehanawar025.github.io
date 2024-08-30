@@ -4,7 +4,7 @@
 
 ### Finding Airbnb
 
-A comprehensive analysis of Airbnb listings using <b>MySQL<b> narrowed down the list from 13,759 to just 15 listings while reducing the budget by up to €500 from the initially set amount.
+A comprehensive analysis of Airbnb listings using <b>MySQL</b> narrowed down the list from 13,759 to just 15 listings while reducing the budget by up to €500 from the initially set amount.
 
 [![](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=blue&labelColor=white)](#) &nbsp; [![](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=blue&labelColor=white)](#)
 
