@@ -21,7 +21,7 @@ A comprehensive analysis of Netflix's content library using <b>Tableau</b> and <
 
 [![](https://img.shields.io/badge/tableau-104f44?style=for-the-badge&logo=tableau&labelColor=white)](#) &nbsp; [![](https://img.shields.io/badge/Kaggle-104f44?style=for-the-badge&logo=kaggle&labelColor=white)](#) &nbsp; [![](https://img.shields.io/badge/python-104f44?style=for-the-badge&logo=python&labelColor=white)](#)
 
-[View code on Github](https://github.com/nehanawar025/Netflix-Dashboard-Tableau)
+[View on Github](https://github.com/nehanawar025/Netflix-Dashboard-Tableau)
 
 ---
 
