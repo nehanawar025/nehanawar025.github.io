@@ -14,6 +14,17 @@ A comprehensive analysis of Airbnb listings using <b>MySQL</b> narrowed down the
 
 ---
 
+### Superstore Sales Dasboard
+This <b>Power BI</b> Sales Dashboard presents key metrics, including total sales, quantity, sales by year, and performance by province, with a comparison of YoY%. It offers valuable insights to support growth strategies.
+
+<img src="images/p1.png?raw=true" />
+
+[![](https://img.shields.io/badge/POWER%20BI-blak?style=for-the-badge&logo=powerbi&logoColor=black&color=104f44)](#) &nbsp; [![](https://img.shields.io/badge/Kaggle-104f44?style=for-the-badge&logo=kaggle&labelColor=white)](#)
+
+[View on Github](https://github.com/nehanawar025/Sales_Dasboard)
+
+---
+
 ### Netflix Content Dashboard
 A comprehensive analysis of Netflix's content library using <b>Tableau</b> and <b>Python</b>, focusing on genre trends, content types, global distribution, and growth patterns to gain data-driven insights.
 
