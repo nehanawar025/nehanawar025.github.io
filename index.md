@@ -6,6 +6,8 @@
 
 A comprehensive analysis of Airbnb listings using <b>MySQL</b> narrowed down the list from 13,759 to just 15 listings while reducing the budget by up to €500 from the initially set amount.
 
+<img src="images/airbnb.png?raw=true" />
+
 [![](https://img.shields.io/badge/mysql-104f44?style=for-the-badge&logo=mysql&logoColor=blue&labelColor=white)](#) &nbsp; [![](https://img.shields.io/badge/Kaggle-104f44?style=for-the-badge&logo=kaggle&logoColor=blue&labelColor=white)](#)
 
 [View code on Article](https://medium.com/learning-data/an-exploratory-data-analysis-using-mysql-to-find-the-perfect-airbnb-1aaba2b02b9b)
