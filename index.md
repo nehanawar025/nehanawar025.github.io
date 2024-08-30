@@ -14,7 +14,7 @@ A comprehensive analysis of Airbnb listings using <b>MySQL</b> narrowed down the
 
 ---
 
-### Superstore Sales Dasboard
+### Superstore Sales Dashboard
 This <b>Power BI</b> Sales Dashboard presents key metrics, including total sales, quantity, sales by year, and performance by province, with a comparison of YoY%. It offers valuable insights to support growth strategies.
 
 <img src="images/p1.png?raw=true" />
