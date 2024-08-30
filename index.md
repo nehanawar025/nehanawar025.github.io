@@ -13,11 +13,11 @@ A comprehensive analysis of Airbnb listings using <b>MySQL</b> narrowed down the
 ---
 
 ### Netflix Content Dashboard
-The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
+A comprehensive analysis of Netflix's content library using <b>Tableau</b> and <b>Python</b>, focusing on genre trends, content types, global distribution, and growth patterns to gain data-driven insights.
 
 <img src="images/Netflix Dashboard.png?raw=true" />
 
-[![](https://img.shields.io/badge/tableau-blue?style=for-the-badge&logo=tableau&labelColor=white)](#) &nbsp; [![](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=blue&labelColor=white)](#)
+[![](https://img.shields.io/badge/tableau-blue?style=for-the-badge&logo=tableau&labelColor=white)](#) &nbsp; [![](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&labelColor=white)](#) &nbsp; [![](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&labelColor=white)](#)
 
 [View code on Github](https://github.com/nehanawar025/Netflix-Dashboard-Tableau)
 
