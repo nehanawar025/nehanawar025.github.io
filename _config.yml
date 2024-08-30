@@ -3,7 +3,7 @@ logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Passionate Data Analyst with strong SQL, Tableau, and Python skills.
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/noshin-nawar-neha/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
